@@ -7,71 +7,79 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 <summary>Table of content</summary>
 
 ## Table of content
-   * [List of Badges, in Markdown](#list-of-badges-in-markdown)
-      * [Generic](#generic)
-      * [Useful](#useful)
-         * [Maintained?](#maintained)
-         * [Website up/down](#website-updown)
-      * [Feedback](#feedback)
-         * ["Ask me anything" in English](#ask-me-anything-in-english)
-         * ["Demandez moi n'importe quoi" in French](#demandez-moi-nimporte-quoi-in-french)
-      * [Python related](#python-related)
-      * [Go related](#go-related)
-      * [Markdown related](#markdown-related)
-      * [LaTeX related](#latex-related)
-         * [PyPI downloads](#pypi-downloads)
-         * [PyPI version](#pypi-version)
-         * [PyPI license](#pypi-license)
-         * [PyPI format](#pypi-format)
-         * [PyPI python versions](#pypi-python-versions)
-         * [PyPI implementation](#pypi-implementation)
-         * [PyPI status](#pypi-status)
-      * [GNU Bash related](#gnu-bash-related)
-      * [Microsoft Visual Studio Code related](#microsoft-visual-studio-code-related)
-      * [Read the Docs status](#read-the-docs-status)
-      * [GitHub related](#github-related)
-         * [GitHub license](#github-license)
-         * [GitHub versions/tags/commits](#github-versionstagscommits)
-         * [GitHub downloads](#github-downloads)
-         * [GitHub forks](#github-forks)
-         * [GitHub stars](#github-stars)
-         * [GitHub watchers](#github-watchers)
-         * [GitHub followers](#github-followers)
-         * [GitHub contributors](#github-contributors)
-         * [GitHub issues](#github-issues)
-         * [GitHub pull-requests](#github-pull-requests)
-         * [GitHub Make a Pull Requests](#github-make-a-pull-requests)
-         * [GitHub file size](#github-file-size)
-         * [GitHub version](#github-version)
-         * [GitHub hits](#github-hits)
-      * [Bitbucket related](#bitbucket-related)
-         * [Bitbucket issues](#bitbucket-issues)
-         * [Bitbucket Watchers](#bitbucket-watchers)
-         * [Bitbucket Fork](#bitbucket-fork)
-         * [Bitbucket Follow](#bitbucket-follow)
-      * [PackageControl related](#packagecontrol-related)
-      * [Google Analytics](#google-analytics)
-      * [Licenses](#licenses)
-         * [MIT License](#mit-license)
-         * [GPLv3 License](#gplv3-license)
-         * [Creative Commons Licenses](#creative-commons-licenses)
-      * [Open-Source](#open-source)
-      * [Meta badges ?!](#meta-badges-)
-      * [DOI and Zenody](#doi-and-zenodo)
-      * [Say thanks](#say-thanks)
-      * [Random](#random)
-         * [Ages 20-30...](#ages-20-30)
-         * [Built by...](#built-by)
-         * [Twitting](#twitting)
-         * [Built with...](#built-with)
-         * [Uses...](#uses)
-         * [Fun](#fun)
-      * [References ? :notebook:](#references--notebook)
-      * [TODO :boom: ?](#todo-boom-)
-      * [Issues :sweat_drops:](#issues-sweat_drops)
-      * [Possible TODO? :light_rail:](#possible-todo-light_rail)
-      * [License ? :scroll:](#license--scroll-)
-
+- [List of Badges, in Markdown](#list-of-badges-in-markdown)
+  - [Table of content](#table-of-content)
+  - [Generic](#generic)
+  - [Useful](#useful)
+    - [Maintained?](#maintained)
+    - [Website up/down](#website-updown)
+  - [Feedback](#feedback)
+    - [*"Ask me anything"* in English](#ask-me-anything-in-english)
+    - [*"Demandez moi n'importe quoi"* in French](#demandez-moi-nimporte-quoi-in-french)
+  - [Python related](#python-related)
+      - [Jupyter Notebook](#jupyter-notebook)
+      - [Google Collab](#google-collab)
+      - [Binder](#binder)
+  - [Go related](#go-related)
+  - [Markdown related](#markdown-related)
+  - [LaTeX related](#latex-related)
+    - [PyPI downloads](#pypi-downloads)
+    - [PyPI version](#pypi-version)
+    - [PyPI license](#pypi-license)
+    - [PyPI format](#pypi-format)
+    - [PyPI python versions](#pypi-python-versions)
+    - [PyPI implementation](#pypi-implementation)
+    - [PyPI status](#pypi-status)
+  - [GNU Bash related](#gnu-bash-related)
+  - [Microsoft Visual Studio Code related](#microsoft-visual-studio-code-related)
+  - [Read the Docs status](#read-the-docs-status)
+  - [GitHub related](#github-related)
+    - [GitHub license](#github-license)
+    - [GitHub versions/tags/commits](#github-versionstagscommits)
+    - [GitHub downloads](#github-downloads)
+    - [GitHub forks](#github-forks)
+    - [GitHub stars](#github-stars)
+    - [GitHub Stargazers over time](#github-stargazers-over-time)
+    - [GitHub watchers](#github-watchers)
+    - [GitHub followers](#github-followers)
+    - [GitHub contributors](#github-contributors)
+    - [GitHub issues](#github-issues)
+    - [GitHub Pull Requests](#github-pull-requests)
+    - [GitHub Make a Pull Requests](#github-make-a-pull-requests)
+    - [GitHub file size](#github-file-size)
+    - [GitHub version](#github-version)
+    - [GitHub hits](#github-hits)
+    - [GitHub Profile](#github-profile)
+    - [GitHub Stars Sparklines](#github-stars-sparklines)
+  - [Bitbucket related](#bitbucket-related)
+    - [Bitbucket issues](#bitbucket-issues)
+    - [Bitbucket Watchers](#bitbucket-watchers)
+    - [Bitbucket Fork](#bitbucket-fork)
+    - [Bitbucket Follow](#bitbucket-follow)
+  - [PackageControl related](#packagecontrol-related)
+  - [Google Analytics](#google-analytics)
+  - [Licenses](#licenses)
+    - [MIT License](#mit-license)
+    - [GPLv3 License](#gplv3-license)
+    - [Creative Commons Licenses](#creative-commons-licenses)
+  - [Open-Source](#open-source)
+  - [Meta badges ?!](#meta-badges-)
+  - [DOI and Zenodo](#doi-and-zenodo)
+  - [Discord](#discord)
+  - [Jetbrains](#jetbrains)
+  - [Say thanks](#say-thanks)
+  - [Random](#random)
+    - [Ages 20-30...](#ages-20-30)
+    - [Twitting](#twitting)
+    - [Built by...](#built-by)
+    - [Built with...](#built-with)
+    - [Uses...](#uses)
+    - [Fun](#fun)
+  - [References ? :notebook:](#references--notebook)
+  - [TODO :boom: ?](#todo-boom-)
+  - [Issues :sweat_drops:](#issues-sweat_drops)
+  - [Possible TODO? :light_rail:](#possible-todo-light_rail)
+  - [License ? :scroll: ![GitHub license](https://github.com/Naereen/badges/blob/master/LICENSE)](#license--scroll-)
 </details>
 
 ----
@@ -89,6 +97,11 @@ A list of badges, with their Markdown code, that can be included in a `README.md
 Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ```markdown
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+```
+
+Maintaner: ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
+```markdown
+![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
 ```
 
 Not maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
@@ -170,21 +183,21 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 ```
 #### [Jupyter Notebook](https://jupyter.org)
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
-```markdown  
+[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+```markdown
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
 ```
 
-#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)   
+#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-```markdown  
+```markdown
 [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-``` 
+```
 
  #### [Binder](https://binder.pangeo.io/)
 [![Binder](https://binder.pangeo.io/badge_logo.svg)
-](https://binder.pangeo.io/v2/gh/Naereen/badges/master) 
-```markdown  
+](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
+```markdown
 [![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/Naereen/badges/master)
 ```
 ----
@@ -496,6 +509,10 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
 ```
 ### GitHub Profile
+[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+```markdown
+[![Anurag's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+```
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ```markdown
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -505,6 +522,11 @@ From [isitmaintained.com](http://isitmaintained.com):
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 ```
 
+### GitHub Stars Sparklines
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+```markdown
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+```
 
 ----
 
@@ -831,19 +853,6 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 ```markdown
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ```
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
-```mardown
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif)
-```
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
-```mardown
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif)
-```
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
-```mardown
-![](https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif)
-```
-
 
 ----
 
